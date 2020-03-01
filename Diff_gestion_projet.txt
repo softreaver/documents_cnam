@@ -1,0 +1,24 @@
+INTRO (1 min)
+
+1 - 2 - DEFINITION PROJET (4MIN)
+Analyse préliminaire (2 min) :
+moi : centrer sur les ressources (dev) 9 objectifs précis
+lui : Centrer sur le contexte (Entreprise) 1 objectif généraliste
+
+Démarche de travail (2 min)
+moi : Vision plus macroscopique (aucune necessité car j'était seule concepteur et developpeur)
+lui : Découpage en lot de travail (une fiche par lot).
+
+3 - 4 - PLANNIFICATION (4MIN)
+Plannification (2 min)
+moi : Contour fonctionnel bien détaillé dans la DEF du projet donc Gantt simplifié, vue macroscopique
+lui : Pas détaillé dans la DEF du projet, donc Gant avec PERTT détaillé, plan de charge prévisionnel
+
+Calcule de la charge de travail et du budget (2 min)
+moi : Enchainement logique Méthode par point de fonctions, COCOMO et 2val financière
+lui : Précision de la méthode Optimiste/pécimiste pour arriver à la budgetisation. Puis utilisation de COCOMO et de Point fonctions pour comparaison.
+
+5 - MISE EN OEUVRE & CONCLUSION (1MIN)
+Suivi du projet (1 min)
+moi :  (pas d'outils) réunion hebdomadaire avec mon tuteur pour vérifier l'avancement et pour priorisé les fonctionnalités en fonction du temps restant.
+lui : (outil PROJEQTOR) suivre l'avancement des fonctionnalitées, lever les point bloquants et suivre le moral des équipes
